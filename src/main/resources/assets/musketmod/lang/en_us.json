@@ -1,0 +1,11 @@
+{
+  "item.musketmod.musket": "Rifled Musket",
+  "item.musketmod.musket.tooltip": "7 hearts a shot. Punches straight through walls.",
+  "item.musketmod.musket.tooltip2": "Left-click to fire. Right-click to reload (5s).",
+  "item.musketmod.musket.tooltip3": "Hold right-click when loaded to aim down the sights.",
+  "item.musketmod.musket.state_loaded": "Loaded",
+  "item.musketmod.musket.state_empty": "Empty",
+  "item.musketmod.musket.one_per_hotbar": "You can only carry one musket in your hotbar or offhand!",
+  "item.musketmod.musket_ball": "Musket Ball",
+  "entity.musketmod.musket_ball": "Musket Ball"
+}

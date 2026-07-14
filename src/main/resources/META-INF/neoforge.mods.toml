@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="musketmod"
+version="1.0.0"
+displayName="Musket Mod"
+description='''Adds a rifled musket that deals 7 hearts of damage, takes 5 seconds to reload, and fires craftable musket balls.'''
+
+[[dependencies.musketmod]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.musketmod]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"

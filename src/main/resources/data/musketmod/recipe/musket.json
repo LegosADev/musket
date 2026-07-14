@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GD ",
+    "  S"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_block" },
+    "D": { "item": "minecraft:diamond_block" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "musketmod:musket",
+    "count": 1
+  }
+}

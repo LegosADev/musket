@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:gunpowder" },
+    { "item": "minecraft:iron_ingot" }
+  ],
+  "result": {
+    "id": "musketmod:musket_ball",
+    "count": 1
+  }
+}
